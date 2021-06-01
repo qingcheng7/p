@@ -23,6 +23,10 @@ const routes = [
     path:'/a',
     component:()=>import("../components/a.vue")
   },
+  {
+      path:'/b',
+      component:()=>import("../components/b.vue")
+  },
   
 ];
 
