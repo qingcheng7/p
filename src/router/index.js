@@ -27,6 +27,10 @@ const routes = [
       path:'/b',
       component:()=>import("../components/b")
   },
+  {
+      path:'/c',
+      component:()=>import('../components/c')
+  }
   
 ];
 
