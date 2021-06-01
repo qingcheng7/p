@@ -1,7 +1,5 @@
 <template>
-    <div>
-        这里是b组件
-    </div>
+    <div>123456</div>
 </template>
 
 <script>
